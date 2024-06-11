@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Shelf from './Shelf';
 
 const albums = [
   { id: 1, title: 'Album Title 1', artist: 'Artist 1', cover: 'https://via.placeholder.com/150', tracks: ['Track 1', 'Track 2', 'Track 3'] },

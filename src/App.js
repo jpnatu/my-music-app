@@ -1,8 +1,8 @@
 import React from 'react';
-import Footer from './footer';
-import Header from './header';
-import MainInterface from './main/mainInterface';
-import Test from './main/test';
+import Footer from './components/footer';
+import Header from './components/header';
+import MainInterface from './pages/mainInterface';
+import Test from './pages/test';
 import './index.css';
 
 const App = () => {
