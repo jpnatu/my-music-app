@@ -8,40 +8,48 @@
   {
     "title": "Nursery Cryme",
     "cover": "./assets/Chyme.jpg",
-    "date": "1971"
+    "date": "1971",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "Close to the Edge",
     "cover": "./assets/ClosetotheEdge.jpg",
-    "date": "1972"
+    "date": "1972",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "In the Court of the Crimson King",
     "cover": "./assets/Crimsonking.jpg",
-    "date": "1969"
+    "date": "1969",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   { "title": "Tarkus",
     "cover": "./assets/Tarkus.jpg",
-    "date": "1971"
+    "date": "1971",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "Thick as a Brick",
     "cover": "https://via.placeholder.com/150",
-    "date": "1972"
+    "date": "1972",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "TempAlbum",
     "cover": "https://via.placeholder.com/300",
-    "date": "0000"
+    "date": "0000",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "TempAlbum",
     "cover": "https://via.placeholder.com/300",
-    "date": "0000"
+    "date": "0000",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   {
     "title": "TempAlbum",
     "cover": "https://via.placeholder.com/300",
-    "date": "0000"
+    "date": "0000",
+    "tracks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   }
 ]

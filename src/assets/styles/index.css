@@ -12,7 +12,6 @@ body {
 
 .title{
   @apply text-4xl text-center mb-4 text-black;
-
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,9 +29,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .album {
-  @apply bg-slate-800 transition-transform duration-200 hover:-translate-y-2 flex flex-col justify-between;
+  @apply bg-slate-800 transition-transform duration-200 rounded-lg shadow-lg
+          hover:-translate-y-2 flex flex-col justify-between;
+}
+
+.album-image {
+  @apply w-full h-full object-cover pointer-events-none rounded-t-lg;
 }
 
 .album p {
   @apply p-1 mt-2 font-semibold;
 } 
+
